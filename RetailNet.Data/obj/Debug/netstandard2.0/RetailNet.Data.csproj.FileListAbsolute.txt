@@ -1,0 +1,5 @@
+C:\Users\customer\source\repos\RetailNet\RetailNet.Data\bin\Debug\netstandard2.0\RetailNet.Core.dll
+C:\Users\customer\source\repos\RetailNet\RetailNet.Data\obj\Debug\netstandard2.0\RetailNet.Data.csprojResolveAssemblyReference.cache
+C:\Users\customer\source\repos\RetailNet\RetailNet.Data\obj\Debug\netstandard2.0\RetailNet.Data.csproj.CoreCompileInputs.cache
+C:\Users\customer\source\repos\RetailNet\RetailNet.Data\obj\Debug\netstandard2.0\RetailNet.Data.AssemblyInfoInputs.cache
+C:\Users\customer\source\repos\RetailNet\RetailNet.Data\obj\Debug\netstandard2.0\RetailNet.Data.AssemblyInfo.cs

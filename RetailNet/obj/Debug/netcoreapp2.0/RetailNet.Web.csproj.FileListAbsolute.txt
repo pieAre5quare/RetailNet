@@ -1,0 +1,5 @@
+C:\Users\customer\source\repos\RetailNet\RetailNet\obj\Debug\netcoreapp2.0\RetailNet.Web.csprojResolveAssemblyReference.cache
+C:\Users\customer\source\repos\RetailNet\RetailNet\obj\Debug\netcoreapp2.0\RetailNet.Web.csproj.CoreCompileInputs.cache
+C:\Users\customer\source\repos\RetailNet\RetailNet\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\customer\source\repos\RetailNet\RetailNet\obj\Debug\netcoreapp2.0\RetailNet.Web.AssemblyInfoInputs.cache
+C:\Users\customer\source\repos\RetailNet\RetailNet\obj\Debug\netcoreapp2.0\RetailNet.Web.AssemblyInfo.cs

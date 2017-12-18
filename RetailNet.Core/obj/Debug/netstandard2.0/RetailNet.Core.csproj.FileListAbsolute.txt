@@ -1,0 +1,9 @@
+C:\Users\customer\source\repos\RetailNet\RetailNet.Core\bin\Debug\netstandard2.0\RetailNet.Core.deps.json
+C:\Users\customer\source\repos\RetailNet\RetailNet.Core\bin\Debug\netstandard2.0\RetailNet.Core.dll
+C:\Users\customer\source\repos\RetailNet\RetailNet.Core\obj\Debug\netstandard2.0\RetailNet.Core.csprojResolveAssemblyReference.cache
+C:\Users\customer\source\repos\RetailNet\RetailNet.Core\obj\Debug\netstandard2.0\RetailNet.Core.csproj.CoreCompileInputs.cache
+C:\Users\customer\source\repos\RetailNet\RetailNet.Core\obj\Debug\netstandard2.0\RetailNet.Core.AssemblyInfoInputs.cache
+C:\Users\customer\source\repos\RetailNet\RetailNet.Core\obj\Debug\netstandard2.0\RetailNet.Core.AssemblyInfo.cs
+C:\Users\customer\source\repos\RetailNet\RetailNet.Core\bin\Debug\netstandard2.0\RetailNet.Core.pdb
+C:\Users\customer\source\repos\RetailNet\RetailNet.Core\obj\Debug\netstandard2.0\RetailNet.Core.dll
+C:\Users\customer\source\repos\RetailNet\RetailNet.Core\obj\Debug\netstandard2.0\RetailNet.Core.pdb
